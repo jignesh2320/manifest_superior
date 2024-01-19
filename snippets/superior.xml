@@ -57,6 +57,7 @@
 
   <!-- Vendor repos -->
   <project path="vendor/certification" name="android_vendor_certification" remote="superior-gitlab" revision="fourteen" />
+  <project path="vendor/gapps" name="vendor_gapps" remote="superior-gitlab" />
   <project path="vendor/prebuilts" name="android_vendor_prebuilts" remote="superior" revision="fourteen" />
   <project path="vendor/superior" name="android_vendor_superior" remote="superior" />
   <project path="vendor/support" name="android_vendor_support" remote="superior" />
