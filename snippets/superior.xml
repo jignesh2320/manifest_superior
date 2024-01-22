@@ -35,6 +35,7 @@
   </project>
 
   <project path="manifest" name="manifest" remote="superior" />
+  <project path="bionic" name="android_bionic" remote="superior" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="superior" />
 
   <!-- External repos -->
