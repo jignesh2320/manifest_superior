@@ -109,4 +109,8 @@
 
   <!-- System repos -->
   <project path="system/core" name="android_system_core" remote="superior" />
+
+  <!-- Prebuilts -->
+  <project path="prebuilts/custom-sdk" name="android_prebuilts_custom-sdk" remote="superior"  />
+
 </manifest>
